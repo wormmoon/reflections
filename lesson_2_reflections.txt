@@ -7,3 +7,16 @@ stored when you do start making commits. A commit is not
 automatically made. Without doing so you cannot make 
 commits. You can save your files, but you will not be able
 to look at older versions of the saves through Git.
+
+//How is the staging area different from the working 
+directory and the repository? What value do you think it 
+offers?
+
+The staging area allows you to add and remove files before 
+creating a commit with them. This has the advantage of 
+being able to decide the best time to make a commit? And if
+you change your mind you can change it before actually
+having made the commit. I suppose you might realise 
+there's something else you need to add that's also within
+that logical step, so you might want to add another file or
+something?
