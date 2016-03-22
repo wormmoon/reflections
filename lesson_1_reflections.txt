@@ -1,0 +1,74 @@
+//How did viewing the difference between between two 
+versions of a file help you see the bug that was 
+introduced?
+
+I was able to quickly locate anything that had been
+changed without having to look tediously through
+anything that hadn't, which meant I could also quickly
+spot any typos (in this case). It will allow me to 
+quickly find where any problems that arise are, so I
+can spend time saved on fixing the problem.
+
+//How could having easy access to the entire history of a
+file make you a more efficient programmer in the long run?
+
+Not only are you able to compare two versions to spot bugs,
+but you can also look back at very old stuff and see how
+you've improved, how you've solved old problems, etc. Which
+might be useful for problems which you don't come across
+very often and so you may not remember how you did it 
+before? Anyway, I suppose either way it helps you spot 
+problems which means you can avoid them next time.
+
+//What do you think are the pros and cons of manually
+choosing when to create a commit, like you do in Git, vs 
+having versions automatically saved, like Google Docs does?
+
+Manually creating commits means that you won't have 
+illogically huge or small commits, which is a pro, as it
+means each commit is going to be more useful to you and
+the project you are working on. And a computer wouldn't be
+able to know what project you are doing and therefore where
+a logical place to create a commit would be. A con is that 
+you may forget to create a commit somewhere along the line
+and you may lose changes or have a lot of changes in one.
+
+//Why do you think some version control systems, like Git,
+allow saving multiple files in one commit, while others, 
+like Google Docs, treat each file separately?
+
+For version control systems which are used by people who 
+are creating projects (or repositories) that use multiple 
+files which are connected in some way, it makes sense to 
+save all files at once, as you may be making changes to 
+all or many of the files at once, or in one logical step 
+at a time, e.g.: html & CSS files.
+
+//How can you use the commands git log and git diff to 
+view the history of files?
+
+git log will allow you to see commits that have been made
+along with a short note about what the exact change was,
+and a specific code for that commit. git diff will then 
+allow you to compare two commits that have been made, which
+means you can see what was changed from one commit to the 
+next (actually the specific changes that were made and on
+which line).
+
+//How might using version control make you more confident 
+to make changes that could break something?
+
+Because you know that you're always going to be able to go 
+back to the version before you made the change that broke 
+it, but also you know you're always going to be able to 
+find the part of the code that broke it as well, as you can
+compare versions etc
+
+//Now that you have your workspace set up, what do you 
+want to try using Git for?
+
+It'll be useful for coding websites because I can use the
+version control features to do edits to all html and css 
+files, put them in one repository, and save them all 
+together at one time. I'll also be able to do changes and
+not worry so much about messing it all up and breaking it!

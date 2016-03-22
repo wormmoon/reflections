@@ -1,0 +1,9 @@
+//What happens when you initialize a repository? Why do 
+you need to do it?
+
+When you initialise a repository on Git, it creates the
+file in which the metadata on the commits you've made is
+stored when you do start making commits. A commit is not
+automatically made. Without doing so you cannot make 
+commits. You can save your files, but you will not be able
+to look at older versions of the saves through Git.
