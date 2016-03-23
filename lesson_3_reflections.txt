@@ -14,3 +14,22 @@ conflicts with a change someone else working on the
 project might have made. This is all I can think of
 for now!
 
+//Describe the differences between forks, clones, and 
+branches. When would you use one instead of another?
+
+Forks: Repositories shared from one GitHub account to
+another (all on GitHub servers). Forks are used when 
+you want to use someone else's project within GitHub.
+It is a public sharing of the files, and as such is able
+to be seen by others as 'forked' from the original.
+
+Clones: Repositories shared from a local computer to GitHub
+or vice versa. Cloning allows you to push or pull 
+repositories from and to you or someone elses computer. 
+Used for example if you want to save your rep. from your
+computer to GitHub or vice versa. 
+
+Branches: Added to repositories, to allow you to test out
+features, or to make a (usually finalised) part of your
+project public on GitHub/share it, while keeping other non
+finalised parts private on your computer
