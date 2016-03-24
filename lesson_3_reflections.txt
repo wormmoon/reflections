@@ -64,3 +64,25 @@ the master branch, which someone can then check through to
 make sure the changes are ready, and then again, GitHub
 does the work for you essentially. I don't know what would
 be easier! There must be something... 
+
+//When would you want to make changes in a separate branch 
+rather than directly in master? What benefits does each 
+approach have?
+
+Making changes in a different branch as opposed to in the
+master means that you can make changes that may have errors
+in them, or may not be perfect, and commit them without
+breaking the code that's in the master branch. This can be
+great for when you're collabing with others and you want to
+make changes and then share them with others again without 
+changing the master branch on GitHub before others have
+reviewed it and you all agree the changes are good enough
+to be published on the master branch. The benefit of making
+changes directly to the master branch is that as soon as 
+you've pushed your commits to the master branch on GH, 
+others will be able to see your changes, AND it's a lot
+cleaner and clearer, as you only have one branch to worry
+about. But obvs, if you commit changes that aren't up to
+scratch, this is the first thing that anyone will see when
+they look at your repo on GitHub, and the new, unreviewed
+changes may have broken the master code.
