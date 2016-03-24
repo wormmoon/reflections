@@ -33,3 +33,12 @@ Branches: Added to repositories, to allow you to test out
 features, or to make a (usually finalised) part of your
 project public on GitHub/share it, while keeping other non
 finalised parts private on your computer
+
+//What is the benefit of having a copy of the last known state of the 
+remote stored locally?
+
+I'm not sure, maybe if you're collaborating with others, it's
+useful so you can be up to date with their changes? Also
+maybe so you know when you last pushed your changes to the
+remote, so you can be aware of the best time to do it next?
+Not sure.
