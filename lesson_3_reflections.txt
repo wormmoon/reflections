@@ -42,3 +42,25 @@ useful so you can be up to date with their changes? Also
 maybe so you know when you last pushed your changes to the
 remote, so you can be aware of the best time to do it next?
 Not sure.
+
+//How would you collaborate without using Git or GitHub? 
+What would be easier, and what would be harder?
+
+To collaborate without GitHub, I suppose you would have to
+send the files back and forth with one another. This would
+make it much more difficult for a few reasons: One, 
+because GitHub allows you to automatically merge branches
+and commits together, or highlights conflicts in a really
+easy way for someone to edit and then merge. Without this
+feature, someone would have to scroll through and manually
+compare both files to see where there were changes OR you'd
+have to keep good records of the things you'd both changed
+so you could compare. Two, because it stores everything 
+online (once you've pushed it there), which means anyone
+can see your updates when you make them, from any computer.
+Three, because it allows you to make changes and then make
+a pull request, requesting that your changes are added to 
+the master branch, which someone can then check through to
+make sure the changes are ready, and then again, GitHub
+does the work for you essentially. I don't know what would
+be easier! There must be something... 
